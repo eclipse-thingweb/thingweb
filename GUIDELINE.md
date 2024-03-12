@@ -1,7 +1,7 @@
 # Guidelines for Developing Thingweb Components
 
 While developing new components in Eclipse Thingweb, we try to follow some basic rules to achieve consistency.
-These are split into categories
+These are split into categories.
 
 ## Folder Names
 
