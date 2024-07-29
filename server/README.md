@@ -72,7 +72,7 @@ These are documented below, alongside the service using the port.
 |----------|---------|
 |   80     |  Apache Web Server |
 |   8080   |  -       |
-|   8081   |  -       |
+|   8081   |  QuickStart Coffee Machine (HTTP) |
 |   8082   |  -        |
 |   8083   |  Example Things (HTTP) |
 |   8084   |  -       |
@@ -93,7 +93,7 @@ These are documented below, alongside the service using the port.
 |   5682   |  -       |
 |   5683   |  Example Things (CoAP) |
 |   5684   |  -       |
-|   5686   |  -       |
+|   5686   |  QuickStart Clock (CoAP) |
 |   5687   |  -       |
 |   5688   |  -       |
 |   5689   |  -       |
