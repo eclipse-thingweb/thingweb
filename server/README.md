@@ -80,7 +80,7 @@ These are documented below, alongside the service using the port.
 |   8086   |  -       |
 |   8087   |  -       |
 |   8088   |  WoT FX UI |
-|   8089   |  -       |
+|   8089   |  Domus TDD |
 |   5685   |  -       |
 
 
